@@ -1,1 +1,2 @@
-# Aviator-predictior
+# Spribe
+Aviator prediction 
